@@ -19,7 +19,7 @@ Hey there! We've created something special - a complete taxi booking system that
   <a href="https://drive.google.com/drive/folders/1HQkCURnn-Gs8Q1RHNbFZnZcdUzNLgkU2?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Try%20Demo-FF5722?style=for-the-badge&logo=google-play&logoColor=white" alt="Try Demo" width="200" />
   </a>
-  <a href="https://ko-fi.com/s/17bc66ab77" target="_blank">
+  <a href="https://ko-fi.com/s/7766e6affd" target="_blank">
     <img src="https://img.shields.io/badge/Get%20Full%20System-4CAF50?style=for-the-badge&logo=shopping-cart&logoColor=white" alt="Get Full System" width="200" />
   </a>
 </p>
@@ -61,7 +61,7 @@ Ready to take your service to the next level? Our full system includes:
 - Smart features like route planning and business insights
 
 <p align="center">
-  <a href="https://ko-fi.com/s/17bc66ab77" target="_blank">
+  <a href="https://ko-fi.com/s/7766e6affd" target="_blank">
     <img src="https://img.shields.io/badge/Upgrade%20Now-2196F3?style=for-the-badge&logo=rocket&logoColor=white" alt="Upgrade Now" width="200" />
   </a>
 </p>
