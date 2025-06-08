@@ -19,7 +19,7 @@ Hey there! We've created something special - a complete taxi booking system that
   <a href="https://drive.google.com/drive/folders/1HQkCURnn-Gs8Q1RHNbFZnZcdUzNLgkU2?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Try%20Demo-FF5722?style=for-the-badge&logo=google-play&logoColor=white" alt="Try Demo" width="200" />
   </a>
-  <a href="https://ko-fi.com/s/17bc66ab77" target="_blank">
+  <a href="[https://ko-fi.com/s/17bc66ab77](https://ko-fi.com/s/7766e6affd)" target="_blank">
     <img src="https://img.shields.io/badge/Get%20Full%20System-4CAF50?style=for-the-badge&logo=shopping-cart&logoColor=white" alt="Get Full System" width="200" />
   </a>
 </p>
@@ -100,7 +100,7 @@ Need help? We're always here for you:
   <a href="https://wa.me/2347089930308" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="mailto:playstudio86@gmail.com" target="_blank">
+  <a href="mailto:chndth@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="tel:+2347041684556" target="_blank">
@@ -112,7 +112,7 @@ Need help? We're always here for you:
 </p>
 
 <p align="center">
-  <a href="https://skrill.me/rq/Franklyn/50/USD?key=gjbr0Q9J6cHoIDDGGyDRd7tsRaX" target="_blank">
+  <a href="[https://skrill.me/rq/Franklyn/50/USD?key=gjbr0Q9J6cHoIDDGGyDRd7tsRaX](https://ko-fi.com/s/7766e6affd)" target="_blank">
     <img src="https://img.shields.io/badge/Upgrade%20to%20Full%20System-4CAF50?style=for-the-badge&logo=rocket&logoColor=white" alt="Upgrade to Full System" width="300" />
   </a>
 </p>
