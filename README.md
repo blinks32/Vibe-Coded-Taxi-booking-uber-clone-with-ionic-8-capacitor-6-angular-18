@@ -61,7 +61,7 @@ Ready to take your service to the next level? Our full system includes:
 - Smart features like route planning and business insights
 
 <p align="center">
-  <a href="https://ko-fi.com/s/17bc66ab77" target="_blank">
+  <a href="[https://ko-fi.com/s/17bc66ab77](https://ko-fi.com/s/7766e6affd)" target="_blank">
     <img src="https://img.shields.io/badge/Upgrade%20Now-2196F3?style=for-the-badge&logo=rocket&logoColor=white" alt="Upgrade Now" width="200" />
   </a>
 </p>
